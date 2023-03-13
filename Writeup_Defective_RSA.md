@@ -10,7 +10,8 @@ https://buckeyectf-21-7890394b80c62b0a5e499176061926a1d1469003.storage.googleapi
 
 it implies:
 
-assume `T` is the original clear text, we have `T^{e} \equiv c \mod (p*q)`
+assume `T` is the original clear text, we have 
+$$T^{e} \equiv c \mod (p*q)$$
 
 
 
