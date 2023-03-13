@@ -1,16 +1,16 @@
-Problem
+* Problem
 
 https://buckeyectf-21-7890394b80c62b0a5e499176061926a1d1469003.storage.googleapis.com/uploads/17dfa175fc42810c163f411ee43972e408d02f9b2d842b0d33aef93123a8a8f7/chall.py
 
 4 numbers were give
 
-\(e\) is the encryption key
-\(p\) and \(q\) are two primes
-\(c\) is the encrypted number
+`e` is the encryption key
+`p` and `q` are two primes
+`c` is the encrypted number
 
 it implies:
 
-assume \(T\) is the original clear text, we have \(T^e \equiv c \mod (p*q)\)
+assume `T` is the original clear text, we have `T^e \equiv c \mod (p*q)`
 
 
 
